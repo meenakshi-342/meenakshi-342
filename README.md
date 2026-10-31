@@ -15,11 +15,11 @@
 
 ### 🎟️ [Event Ticket Scalper & Fraud Analytics Engine](https://github.com/meenakshi-342/event-ticket-fraud-analytics)
 * **Description:** Real-time behavioral telemetry analysis to detect automated ticket scalper bots and transaction fraud[cite: 10, 11].
-* **Live App:** [🔗 Launch Fraud Analytics Dashboard](https://event-ticket-fraud-analytics.streamlit.app)[cite: 10, 11]
+* **Live App:** [🔗 Launch Fraud Analytics Dashboard](https://event-ticket-fraud-analytics.streamlit.app)
 
 ### 📉 [Enterprise Customer Churn & Revenue Risk Predictor](https://github.com/meenakshi-342/enterprise-churn-predictor)
 * **Description:** End-to-end machine learning web application predicting customer churn and quantifying annual revenue risk[cite: 12, 14].
-* **Live App:** [🔗 Launch Churn Predictor Dashboard](https://enterprise-churn-predictor.streamlit.app)[cite: 14]
+* **Live App:** [🔗 Launch Churn Predictor Dashboard](https://enterprise-churn-predictor.streamlit.app)
 
 ---
 
