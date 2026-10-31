@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Meenakshi 👋
 
-<!--
-**meenakshi-342/meenakshi-342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Data Science & ML Enthusiast** | Building end-to-end predictive models and analytical dashboards.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Skills
+* **Languages:** Python, SQL, C++, HTML/CSS, JavaScript
+* **Data Science & ML:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, Matplotlib, Seaborn
+* **Tools & Platforms:** MySQL Workbench, Git/GitHub, Streamlit, VS Code
+
+---
+
+## 🚀 Featured Live Projects
+
+### 🎟️ [Event Ticket Scalper & Fraud Analytics Engine](https://github.com/meenakshi-342/event-ticket-fraud-analytics)
+* **Description:** Real-time behavioral telemetry analysis to detect automated ticket scalper bots and transaction fraud[cite: 10, 11].
+* **Live App:** [🔗 Launch Fraud Analytics Dashboard](https://event-ticket-fraud-analytics.streamlit.app)[cite: 10, 11]
+
+### 📉 [Enterprise Customer Churn & Revenue Risk Predictor](https://github.com/meenakshi-342/enterprise-churn-predictor)
+* **Description:** End-to-end machine learning web application predicting customer churn and quantifying annual revenue risk[cite: 12, 14].
+* **Live App:** [🔗 Launch Churn Predictor Dashboard](https://enterprise-churn-predictor.streamlit.app)[cite: 14]
+
+---
+
+## 📫 Connect With Me
+* **LinkedIn:** [Meenakshi Kumari](https://www.linkedin.com/in/meenakshi-kumari-6b79bb352)
+* **GitHub:** [@meenakshi-342](https://github.com/meenakshi-342)
